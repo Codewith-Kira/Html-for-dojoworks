@@ -74,5 +74,4 @@ Free to use and modify for personal portfolio projects.
 🙌 Author
 
 Kiran Prakash
-KTU Student
-Aspiring Developer
+BTech CSE Student
